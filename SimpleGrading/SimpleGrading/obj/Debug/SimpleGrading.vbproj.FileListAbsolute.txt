@@ -1,0 +1,32 @@
+C:\Users\QCU\AppData\Local\Temporary Projects\SimpleGrading\bin\Debug\SimpleGrading.exe.config
+C:\Users\QCU\AppData\Local\Temporary Projects\SimpleGrading\obj\Debug\SimpleGrading.Form1.resources
+C:\Users\QCU\AppData\Local\Temporary Projects\SimpleGrading\obj\Debug\SimpleGrading.Resources.resources
+C:\Users\QCU\AppData\Local\Temporary Projects\SimpleGrading\obj\Debug\SimpleGrading.vbproj.GenerateResource.Cache
+C:\Users\QCU\AppData\Local\Temporary Projects\SimpleGrading\bin\Debug\SimpleGrading.exe
+C:\Users\QCU\AppData\Local\Temporary Projects\SimpleGrading\bin\Debug\SimpleGrading.pdb
+C:\Users\QCU\AppData\Local\Temporary Projects\SimpleGrading\bin\Debug\SimpleGrading.xml
+C:\Users\QCU\AppData\Local\Temporary Projects\SimpleGrading\obj\Debug\SimpleGrading.exe
+C:\Users\QCU\AppData\Local\Temporary Projects\SimpleGrading\obj\Debug\SimpleGrading.xml
+C:\Users\QCU\AppData\Local\Temporary Projects\SimpleGrading\obj\Debug\SimpleGrading.pdb
+C:\Users\QCU\Documents\Visual Studio 2012\Projects\SimpleGrading\SimpleGrading\bin\Debug\SimpleGrading.exe.config
+C:\Users\QCU\Documents\Visual Studio 2012\Projects\SimpleGrading\SimpleGrading\obj\Debug\SimpleGrading.exe
+C:\Users\QCU\Documents\Visual Studio 2012\Projects\SimpleGrading\SimpleGrading\obj\Debug\SimpleGrading.xml
+C:\Users\QCU\Documents\Visual Studio 2012\Projects\SimpleGrading\SimpleGrading\obj\Debug\SimpleGrading.pdb
+C:\Users\QCU\Documents\Visual Studio 2012\Projects\SimpleGrading\SimpleGrading\bin\Debug\SimpleGrading.exe
+C:\Users\QCU\Documents\Visual Studio 2012\Projects\SimpleGrading\SimpleGrading\bin\Debug\SimpleGrading.pdb
+C:\Users\QCU\Documents\Visual Studio 2012\Projects\SimpleGrading\SimpleGrading\bin\Debug\SimpleGrading.xml
+C:\Users\QCU\Documents\Visual Studio 2012\Projects\SimpleGrading\SimpleGrading\obj\Debug\SimpleGrading.Form1.resources
+C:\Users\QCU\Documents\Visual Studio 2012\Projects\SimpleGrading\SimpleGrading\obj\Debug\SimpleGrading.Resources.resources
+C:\Users\QCU\Documents\Visual Studio 2012\Projects\SimpleGrading\SimpleGrading\obj\Debug\SimpleGrading.vbproj.GenerateResource.Cache
+C:\Users\Jeff\Documents\Subject\PF101\SimpleGrading\SimpleGrading\bin\Debug\SimpleGrading.exe.config
+C:\Users\Jeff\Documents\Subject\PF101\SimpleGrading\SimpleGrading\bin\Debug\SimpleGrading.exe
+C:\Users\Jeff\Documents\Subject\PF101\SimpleGrading\SimpleGrading\bin\Debug\SimpleGrading.pdb
+C:\Users\Jeff\Documents\Subject\PF101\SimpleGrading\SimpleGrading\bin\Debug\SimpleGrading.xml
+C:\Users\Jeff\Documents\Subject\PF101\SimpleGrading\SimpleGrading\obj\Debug\SimpleGrading.vbproj.AssemblyReference.cache
+C:\Users\Jeff\Documents\Subject\PF101\SimpleGrading\SimpleGrading\obj\Debug\SimpleGrading.Form1.resources
+C:\Users\Jeff\Documents\Subject\PF101\SimpleGrading\SimpleGrading\obj\Debug\SimpleGrading.Resources.resources
+C:\Users\Jeff\Documents\Subject\PF101\SimpleGrading\SimpleGrading\obj\Debug\SimpleGrading.vbproj.GenerateResource.cache
+C:\Users\Jeff\Documents\Subject\PF101\SimpleGrading\SimpleGrading\obj\Debug\SimpleGrading.vbproj.CoreCompileInputs.cache
+C:\Users\Jeff\Documents\Subject\PF101\SimpleGrading\SimpleGrading\obj\Debug\SimpleGrading.exe
+C:\Users\Jeff\Documents\Subject\PF101\SimpleGrading\SimpleGrading\obj\Debug\SimpleGrading.xml
+C:\Users\Jeff\Documents\Subject\PF101\SimpleGrading\SimpleGrading\obj\Debug\SimpleGrading.pdb
